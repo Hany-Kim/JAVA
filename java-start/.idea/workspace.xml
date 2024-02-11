@@ -1,18 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="088a8f84-8889-4d60-800b-6f2490c58cf6" name="Changes" comment="" />
+    <list default="true" id="088a8f84-8889-4d60-800b-6f2490c58cf6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/JAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../data/data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Assign1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Comp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Comp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Logical1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Logical2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/Operator4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/OperatorAdd1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/OperatorAdd2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/Var8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx1Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2bwoyUlDmiHM5D5EdTkmN2P7ae9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,25 +55,106 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Assign1.executor": "Run",
+    "Application.Comp1.executor": "Run",
+    "Application.Comp2.executor": "Run",
+    "Application.If1.executor": "Run",
+    "Application.Logical1.executor": "Run",
+    "Application.Logical2.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.OperationEx1.executor": "Run",
+    "Application.OperationEx2.executor": "Run",
+    "Application.OperationEx3.executor": "Run",
+    "Application.Operator1.executor": "Run",
+    "Application.Operator2.executor": "Run",
+    "Application.Operator3.executor": "Run",
+    "Application.Operator4.executor": "Run",
+    "Application.OperatorAdd1.executor": "Run",
+    "Application.OperatorAdd2.executor": "Run",
+    "Application.VarEx1Question.executor": "Run",
+    "Application.VarEx2.executor": "Run",
+    "Application.VarEx3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/MyGit/Language/JAVA/java-start/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+  <component name="RunManager" selected="Application.If1">
+    <configuration name="Assign1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.Assign1" />
       <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="If1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cond.If1" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cond.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperationEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx1" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operator.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperationEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx2" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operator.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperationEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx3" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operator.ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.If1" />
+        <item itemvalue="Application.OperationEx3" />
+        <item itemvalue="Application.OperationEx2" />
+        <item itemvalue="Application.OperationEx1" />
+        <item itemvalue="Application.Assign1" />
       </list>
     </recent_temporary>
   </component>
