@@ -5,29 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="088a8f84-8889-4d60-800b-6f2490c58cf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/JAVA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../data/data.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Assign1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Comp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Comp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Logical1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Logical2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Operator1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Operator2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Operator3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/Operator4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/OperatorAdd1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/OperatorAdd2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operator/ex/OperationEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/Var8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx1Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variable/ex/VarEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/CondOp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/CondOp2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/If6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/Switch1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/Switch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/Switch3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/Switch4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/DistanceEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/ExchangeEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/FindEvenOddEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/GradeEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/MoreThanNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/MovingRatingEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cond/ex/ScoreEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Continue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/For1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/For2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,12 +64,32 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Assign1.executor": "Run",
+    "Application.Break1.executor": "Run",
+    "Application.Break2.executor": "Run",
+    "Application.Break3.executor": "Run",
     "Application.Comp1.executor": "Run",
     "Application.Comp2.executor": "Run",
+    "Application.CondOp2.executor": "Run",
+    "Application.Continue1.executor": "Run",
+    "Application.DistanceEx.executor": "Run",
+    "Application.DoWhile1.executor": "Run",
+    "Application.DoWhile2.executor": "Run",
+    "Application.ExchangeEx.executor": "Run",
+    "Application.FindEvenOddEx.executor": "Run",
+    "Application.For1.executor": "Run",
+    "Application.For2.executor": "Run",
+    "Application.GradeEx.executor": "Run",
     "Application.If1.executor": "Run",
+    "Application.If2.executor": "Run",
+    "Application.If3.executor": "Run",
+    "Application.If4.executor": "Run",
+    "Application.If5.executor": "Run",
+    "Application.If6.executor": "Run",
     "Application.Logical1.executor": "Run",
     "Application.Logical2.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MoreThanNum.executor": "Run",
+    "Application.MovingRatingEx.executor": "Run",
     "Application.OperationEx1.executor": "Run",
     "Application.OperationEx2.executor": "Run",
     "Application.OperationEx3.executor": "Run",
@@ -71,9 +99,18 @@
     "Application.Operator4.executor": "Run",
     "Application.OperatorAdd1.executor": "Run",
     "Application.OperatorAdd2.executor": "Run",
+    "Application.ScoreEx1.executor": "Run",
+    "Application.Switch1.executor": "Run",
+    "Application.Switch2.executor": "Run",
+    "Application.Switch3.executor": "Run",
+    "Application.Switch4.executor": "Run",
     "Application.VarEx1Question.executor": "Run",
     "Application.VarEx2.executor": "Run",
     "Application.VarEx3.executor": "Run",
+    "Application.While1_1.executor": "Run",
+    "Application.While1_2.executor": "Run",
+    "Application.While2_1.executor": "Run",
+    "Application.While2_3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -82,13 +119,19 @@
     "onboarding.tips.debug.path": "C:/MyGit/Language/JAVA/java-start/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.If1">
-    <configuration name="Assign1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.Assign1" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="loop" />
+      <recent name="cond" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Break3">
+    <configuration name="Break2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Break2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="If1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.If1" />
+    <configuration name="Break3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Break3" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx1" />
+    <configuration name="Continue1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Continue1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.ex.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx2" />
+    <configuration name="For1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.For1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.ex.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.ex.OperationEx3" />
+    <configuration name="For2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.For2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.ex.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.If1" />
-        <item itemvalue="Application.OperationEx3" />
-        <item itemvalue="Application.OperationEx2" />
-        <item itemvalue="Application.OperationEx1" />
-        <item itemvalue="Application.Assign1" />
+        <item itemvalue="Application.Break3" />
+        <item itemvalue="Application.Break2" />
+        <item itemvalue="Application.For2" />
+        <item itemvalue="Application.For1" />
+        <item itemvalue="Application.Continue1" />
       </list>
     </recent_temporary>
   </component>
