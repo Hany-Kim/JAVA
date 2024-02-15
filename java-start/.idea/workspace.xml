@@ -5,37 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="088a8f84-8889-4d60-800b-6f2490c58cf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cond/CondOp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/CondOp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/DistanceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/ExchangeEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/FindEvenOddEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/GradeEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/MoreThanNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/MovingRatingEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/ScoreEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Break1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Break2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Break3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Continue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/For1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/For2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/EnhancedFor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Casting3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/casting/Castring4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Nested1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/NestedEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/NestedEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ChangeVarEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,10 +83,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Array1.executor": "Run",
+    "Application.Array1Ref1.executor": "Run",
+    "Application.Array1Ref2.executor": "Run",
+    "Application.Array1Ref3.executor": "Run",
+    "Application.Array1Ref4.executor": "Run",
+    "Application.ArrayDi0.executor": "Run",
+    "Application.ArrayDi1.executor": "Run",
+    "Application.ArrayDi2.executor": "Run",
+    "Application.ArrayDi3.executor": "Run",
+    "Application.ArrayDi4.executor": "Run",
+    "Application.ArrayEx1.executor": "Run",
+    "Application.ArrayEx2.executor": "Run",
+    "Application.ArrayEx3.executor": "Run",
+    "Application.ArrayEx4.executor": "Run",
+    "Application.ArrayEx5.executor": "Run",
+    "Application.ArrayEx6.executor": "Run",
+    "Application.ArrayEx7.executor": "Run",
+    "Application.ArrayEx8.executor": "Run",
     "Application.Assign1.executor": "Run",
     "Application.Break1.executor": "Run",
     "Application.Break2.executor": "Run",
     "Application.Break3.executor": "Run",
+    "Application.Casting1.executor": "Run",
+    "Application.Casting2.executor": "Run",
+    "Application.Casting3.executor": "Run",
+    "Application.Castring4.executor": "Run",
+    "Application.ChangeVarEx.executor": "Run",
     "Application.Comp1.executor": "Run",
     "Application.Comp2.executor": "Run",
     "Application.CondOp2.executor": "Run",
@@ -74,10 +117,14 @@
     "Application.DistanceEx.executor": "Run",
     "Application.DoWhile1.executor": "Run",
     "Application.DoWhile2.executor": "Run",
+    "Application.EnhancedFor1.executor": "Run",
     "Application.ExchangeEx.executor": "Run",
     "Application.FindEvenOddEx.executor": "Run",
     "Application.For1.executor": "Run",
     "Application.For2.executor": "Run",
+    "Application.ForEx1.executor": "Run",
+    "Application.ForEx2.executor": "Run",
+    "Application.ForEx3.executor": "Run",
     "Application.GradeEx.executor": "Run",
     "Application.If1.executor": "Run",
     "Application.If2.executor": "Run",
@@ -90,6 +137,9 @@
     "Application.Main.executor": "Run",
     "Application.MoreThanNum.executor": "Run",
     "Application.MovingRatingEx.executor": "Run",
+    "Application.Nested1.executor": "Run",
+    "Application.NestedEx1.executor": "Run",
+    "Application.NestedEx2.executor": "Run",
     "Application.OperationEx1.executor": "Run",
     "Application.OperationEx2.executor": "Run",
     "Application.OperationEx3.executor": "Run",
@@ -99,6 +149,25 @@
     "Application.Operator4.executor": "Run",
     "Application.OperatorAdd1.executor": "Run",
     "Application.OperatorAdd2.executor": "Run",
+    "Application.Scanner1.executor": "Run",
+    "Application.Scanner2.executor": "Run",
+    "Application.Scanner3.executor": "Run",
+    "Application.ScannerEx1.executor": "Run",
+    "Application.ScannerEx2.executor": "Run",
+    "Application.ScannerEx3.executor": "Run",
+    "Application.ScannerEx4.executor": "Run",
+    "Application.ScannerEx5.executor": "Run",
+    "Application.ScannerWhile1.executor": "Run",
+    "Application.ScannerWhile2.executor": "Run",
+    "Application.ScannerWhile3.executor": "Run",
+    "Application.ScannerWhileEx1.executor": "Run",
+    "Application.ScannerWhileEx2.executor": "Run",
+    "Application.ScannerWhileEx3.executor": "Run",
+    "Application.ScannerWhileEx4.executor": "Run",
+    "Application.Scope1.executor": "Run",
+    "Application.Scope2.executor": "Run",
+    "Application.Scope3_1.executor": "Run",
+    "Application.Scope3_2.executor": "Run",
     "Application.ScoreEx1.executor": "Run",
     "Application.Switch1.executor": "Run",
     "Application.Switch2.executor": "Run",
@@ -111,6 +180,9 @@
     "Application.While1_2.executor": "Run",
     "Application.While2_1.executor": "Run",
     "Application.While2_3.executor": "Run",
+    "Application.WhileEx1.executor": "Run",
+    "Application.WhileEx2.executor": "Run",
+    "Application.WhileEx3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -121,17 +193,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="loop" />
-      <recent name="cond" />
+      <recent name="array.ex" />
+      <recent name="array" />
+      <recent name="scanner.ex" />
+      <recent name="scanner" />
+      <recent name="casting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Break3">
-    <configuration name="Break2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Break2" />
+  <component name="RunManager" selected="Application.ArrayEx8">
+    <configuration name="ArrayEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx4" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Break3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Break3" />
+    <configuration name="ArrayEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx5" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Continue1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Continue1" />
+    <configuration name="ArrayEx6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx6" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.For1" />
+    <configuration name="ArrayEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx7" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +253,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.For2" />
+    <configuration name="ArrayEx8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx8" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Break3" />
-        <item itemvalue="Application.Break2" />
-        <item itemvalue="Application.For2" />
-        <item itemvalue="Application.For1" />
-        <item itemvalue="Application.Continue1" />
+        <item itemvalue="Application.ArrayEx8" />
+        <item itemvalue="Application.ArrayEx7" />
+        <item itemvalue="Application.ArrayEx6" />
+        <item itemvalue="Application.ArrayEx5" />
+        <item itemvalue="Application.ArrayEx4" />
       </list>
     </recent_temporary>
   </component>
