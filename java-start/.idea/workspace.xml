@@ -4,60 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="088a8f84-8889-4d60-800b-6f2490c58cf6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/Array1Ref4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/EnhancedFor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/casting/Casting1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/casting/Casting2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/casting/Casting3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/casting/Castring4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Nested1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/NestedEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/NestedEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ChangeVarEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="088a8f84-8889-4d60-800b-6f2490c58cf6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
