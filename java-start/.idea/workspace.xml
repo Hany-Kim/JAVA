@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="088a8f84-8889-4d60-800b-6f2490c58cf6" name="Changes" comment="" />
+    <list default="true" id="088a8f84-8889-4d60-800b-6f2490c58cf6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ProductAdminEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Method1Ref.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/method/MethodValue3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,132 +41,141 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Array1.executor": "Run",
-    "Application.Array1Ref1.executor": "Run",
-    "Application.Array1Ref2.executor": "Run",
-    "Application.Array1Ref3.executor": "Run",
-    "Application.Array1Ref4.executor": "Run",
-    "Application.ArrayDi0.executor": "Run",
-    "Application.ArrayDi1.executor": "Run",
-    "Application.ArrayDi2.executor": "Run",
-    "Application.ArrayDi3.executor": "Run",
-    "Application.ArrayDi4.executor": "Run",
-    "Application.ArrayEx1.executor": "Run",
-    "Application.ArrayEx2.executor": "Run",
-    "Application.ArrayEx3.executor": "Run",
-    "Application.ArrayEx4.executor": "Run",
-    "Application.ArrayEx5.executor": "Run",
-    "Application.ArrayEx6.executor": "Run",
-    "Application.ArrayEx7.executor": "Run",
-    "Application.ArrayEx8.executor": "Run",
-    "Application.Assign1.executor": "Run",
-    "Application.Break1.executor": "Run",
-    "Application.Break2.executor": "Run",
-    "Application.Break3.executor": "Run",
-    "Application.Casting1.executor": "Run",
-    "Application.Casting2.executor": "Run",
-    "Application.Casting3.executor": "Run",
-    "Application.Castring4.executor": "Run",
-    "Application.ChangeVarEx.executor": "Run",
-    "Application.Comp1.executor": "Run",
-    "Application.Comp2.executor": "Run",
-    "Application.CondOp2.executor": "Run",
-    "Application.Continue1.executor": "Run",
-    "Application.DistanceEx.executor": "Run",
-    "Application.DoWhile1.executor": "Run",
-    "Application.DoWhile2.executor": "Run",
-    "Application.EnhancedFor1.executor": "Run",
-    "Application.ExchangeEx.executor": "Run",
-    "Application.FindEvenOddEx.executor": "Run",
-    "Application.For1.executor": "Run",
-    "Application.For2.executor": "Run",
-    "Application.ForEx1.executor": "Run",
-    "Application.ForEx2.executor": "Run",
-    "Application.ForEx3.executor": "Run",
-    "Application.GradeEx.executor": "Run",
-    "Application.If1.executor": "Run",
-    "Application.If2.executor": "Run",
-    "Application.If3.executor": "Run",
-    "Application.If4.executor": "Run",
-    "Application.If5.executor": "Run",
-    "Application.If6.executor": "Run",
-    "Application.Logical1.executor": "Run",
-    "Application.Logical2.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MoreThanNum.executor": "Run",
-    "Application.MovingRatingEx.executor": "Run",
-    "Application.Nested1.executor": "Run",
-    "Application.NestedEx1.executor": "Run",
-    "Application.NestedEx2.executor": "Run",
-    "Application.OperationEx1.executor": "Run",
-    "Application.OperationEx2.executor": "Run",
-    "Application.OperationEx3.executor": "Run",
-    "Application.Operator1.executor": "Run",
-    "Application.Operator2.executor": "Run",
-    "Application.Operator3.executor": "Run",
-    "Application.Operator4.executor": "Run",
-    "Application.OperatorAdd1.executor": "Run",
-    "Application.OperatorAdd2.executor": "Run",
-    "Application.Scanner1.executor": "Run",
-    "Application.Scanner2.executor": "Run",
-    "Application.Scanner3.executor": "Run",
-    "Application.ScannerEx1.executor": "Run",
-    "Application.ScannerEx2.executor": "Run",
-    "Application.ScannerEx3.executor": "Run",
-    "Application.ScannerEx4.executor": "Run",
-    "Application.ScannerEx5.executor": "Run",
-    "Application.ScannerWhile1.executor": "Run",
-    "Application.ScannerWhile2.executor": "Run",
-    "Application.ScannerWhile3.executor": "Run",
-    "Application.ScannerWhileEx1.executor": "Run",
-    "Application.ScannerWhileEx2.executor": "Run",
-    "Application.ScannerWhileEx3.executor": "Run",
-    "Application.ScannerWhileEx4.executor": "Run",
-    "Application.Scope1.executor": "Run",
-    "Application.Scope2.executor": "Run",
-    "Application.Scope3_1.executor": "Run",
-    "Application.Scope3_2.executor": "Run",
-    "Application.ScoreEx1.executor": "Run",
-    "Application.Switch1.executor": "Run",
-    "Application.Switch2.executor": "Run",
-    "Application.Switch3.executor": "Run",
-    "Application.Switch4.executor": "Run",
-    "Application.VarEx1Question.executor": "Run",
-    "Application.VarEx2.executor": "Run",
-    "Application.VarEx3.executor": "Run",
-    "Application.While1_1.executor": "Run",
-    "Application.While1_2.executor": "Run",
-    "Application.While2_1.executor": "Run",
-    "Application.While2_3.executor": "Run",
-    "Application.WhileEx1.executor": "Run",
-    "Application.WhileEx2.executor": "Run",
-    "Application.WhileEx3.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/MyGit/Language/JAVA/java-start/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1Ref1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1Ref2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1Ref3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1Ref4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDi0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDi1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDi2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDi3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDi4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayEx8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Assign1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Break1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Break2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Break3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Casting1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Casting2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Casting3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Castring4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChangeVarEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comp1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comp2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CondOp2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Continue1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DistanceEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhile1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DoWhile2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnhancedFor1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExchangeEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindEvenOddEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.For2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GradeEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Logical1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Logical2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method1Ref.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Method2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReturn1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodReturn2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodValue0.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodValue1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MethodValue2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoreThanNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MovingRatingEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Nested1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperationEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operator1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operator2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operator3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operator4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperatorAdd1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OperatorAdd2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductAdminEx.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scanner1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scanner2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scanner3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerEx5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerWhile1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerWhile2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerWhile3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerWhileEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerWhileEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerWhileEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerWhileEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scope1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scope2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scope3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Scope3_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScoreEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarEx1Question.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VarEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While1_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While1_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While2_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.While2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WhileEx3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/MyGit/Language/JAVA/java-start/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="method" />
       <recent name="array.ex" />
       <recent name="array" />
       <recent name="scanner.ex" />
       <recent name="scanner" />
-      <recent name="casting" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayEx8">
-    <configuration name="ArrayEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx4" />
+  <component name="RunManager" selected="Application.MethodValue3">
+    <configuration name="MethodReturn2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodReturn2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.ex.*" />
+          <option name="PATTERN" value="method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx5" />
+    <configuration name="MethodValue0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodValue0" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.ex.*" />
+          <option name="PATTERN" value="method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +196,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx6" />
+    <configuration name="MethodValue1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodValue1" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.ex.*" />
+          <option name="PATTERN" value="method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx7" />
+    <configuration name="MethodValue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodValue2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.ex.*" />
+          <option name="PATTERN" value="method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx8" />
+    <configuration name="MethodValue3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="method.MethodValue3" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.ex.*" />
+          <option name="PATTERN" value="method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,11 +237,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayEx8" />
-        <item itemvalue="Application.ArrayEx7" />
-        <item itemvalue="Application.ArrayEx6" />
-        <item itemvalue="Application.ArrayEx5" />
-        <item itemvalue="Application.ArrayEx4" />
+        <item itemvalue="Application.MethodValue3" />
+        <item itemvalue="Application.MethodValue2" />
+        <item itemvalue="Application.MethodValue1" />
+        <item itemvalue="Application.MethodValue0" />
+        <item itemvalue="Application.MethodReturn2" />
       </list>
     </recent_temporary>
   </component>
